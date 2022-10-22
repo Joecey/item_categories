@@ -1,7 +1,21 @@
-dog,cat,horse,mouse,animals
-house,skyscraper,buildings
-car,bike,truck,motorbike,vehicles
-pasta,pizza,ice cream,cookie,food
-steak,chicken,beef,pork,meat
-carrot,lettuce,cabbage,vegetables
-apple,banana,orange,fruits
+animals, dog,cat,horse,mouse
+buildings, house,skyscraper
+vehicles, boat, car,bike,truck,motorbike,plane
+food, pasta,pizza,ice cream,cookie
+meat, steak,chicken,beef,pork
+vegetables, carrot,lettuce,cabbage
+fruits, apple,banana,orange
+video games, valorant,league of legeneds, csgo, fortnite, halo, roblox, minecraft
+cutlery, plate, fork, knife, spoon
+sausage, breakfast, bacon, egg,
+sausage, bacon,food, egg, 
+metals, gold, silver, bronze, iron
+technology, iphone, computer, phone, tv, laptop, tablet
+buildings, apartment, bungalow, house, skyscraper, 
+fish, salmon, tuna, cod
+asian, filipino, chinese, korean, japanese, thai
+european, irish, english, spanish, french, german, swiss, dutch, belgian
+religions, christianity, judaism, cult imperialis, islam, budaism
+
+
+
